@@ -1,0 +1,17 @@
+{
+  "name": "browzr",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mbenadda/browzr",
+  "authors": [
+    "Mehdi Benadda <me@mbenadda.com>"
+  ],
+  "description": "Smart client-side browser detection library.",
+  "main": "browzr.js",
+  "keywords": [
+    "browser",
+    "sniffing",
+    "detection",
+    "finding"
+  ],
+  "license": "MIT"
+}
